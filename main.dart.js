@@ -40078,13 +40078,13 @@ ZX(){var s=t.fo
 return A.ap(new A.au(A.a(["Student Login","Teacher Login"],t.s),new A.afM(),s),!0,s.i("b1.E"))},
 ZY(){var s=t.fo
 return A.ap(new A.au(A.a(["Student Sign Up","Teacher Sign Up"],t.s),new A.afN(),s),!0,s.i("b1.E"))},
-I(a,b){var s,r,q=this,p=null,o=A.as(p,p,p,p,new A.f2(p,new A.Hu(new A.qq("background/astronomy.jpg",p,p),B.wS),p,p,p,p,B.b_),p,p,p,p),n=t.p,m=A.as(p,A.aS(A.a([A.aFD(A.bm(A.U("Main",p,p,p,A.Z(p,p,B.j,p,p,p,p,p,p,p,p,30,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p))],n),B.k,B.p,B.v),p,p,new A.f2(B.ck,p,p,A.ah(30),p,p,B.b_),50,p,new A.ab(5,5,5,5),150),l=A.ah(10),k=q.d,j=q.ZX(),i=t.N
+I(a,b){var s,r,q=this,p=null,o=A.as(p,p,p,p,new A.f2(p,new A.Hu(new A.qq("assets/background/astronomy.jpg",p,p),B.wS),p,p,p,p,B.b_),p,p,p,p),n=t.p,m=A.as(p,A.aS(A.a([A.aFD(A.bm(A.U("Main",p,p,p,A.Z(p,p,B.j,p,p,p,p,p,p,p,p,30,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p))],n),B.k,B.p,B.v),p,p,new A.f2(B.ck,p,p,A.ah(30),p,p,B.b_),50,p,new A.ab(5,5,5,5),150),l=A.ah(10),k=q.d,j=q.ZX(),i=t.N
 l=A.as(p,A.asu(B.tT,A.U("Sign In",p,p,p,A.Z(p,p,B.j,p,p,p,p,p,p,p,p,20,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.nt,j,new A.afS(q,b),A.O(p,p,p),k,i),p,p,new A.f2(B.tT,p,p,l,p,p,B.b_),p,B.n3,B.n2,p)
 k=A.O(p,p,50)
 j=A.ah(10)
 s=q.d
 r=q.ZY()
-return A.u3(B.cx,A.a([o,A.et(A.ek(A.a([l,k,A.as(p,A.asu(B.tS,A.U("Sign Up",p,p,p,A.Z(p,p,B.j,p,p,p,p,p,p,p,p,20,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.nt,r,new A.afT(q,b),A.O(p,p,p),s,i),p,p,new A.f2(B.tS,p,p,j,p,p,B.b_),p,B.n3,B.n2,p),A.O(p,p,100)],n),!1,B.ae,0,m),B.ae,A.ew(A.b4(A.a([new A.a8(B.Bz,A.bm(A.as(p,A.jg("logo/CosmoQuizz_white.png"),p,p,p,400,p,p,500),p,p),p),new A.a8(B.BF,A.U("CosmoQuizz is an app that will help kids manage their workload by allowing game breaks",p,p,p,A.Z(p,p,B.j,p,p,p,p,p,p,p,p,25,p,p,p,p,!0,p,p,p,p,p,A.a([new A.l2(B.t,new A.o(6,6),2)],t.kO),p,p),p,p),p)],n),B.k,B.y,B.v)))],n),B.bY,p,p)}}
+return A.u3(B.cx,A.a([o,A.et(A.ek(A.a([l,k,A.as(p,A.asu(B.tS,A.U("Sign Up",p,p,p,A.Z(p,p,B.j,p,p,p,p,p,p,p,p,20,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.nt,r,new A.afT(q,b),A.O(p,p,p),s,i),p,p,new A.f2(B.tS,p,p,j,p,p,B.b_),p,B.n3,B.n2,p),A.O(p,p,100)],n),!1,B.ae,0,m),B.ae,A.ew(A.b4(A.a([new A.a8(B.Bz,A.bm(A.as(p,A.jg("assets/logo/CosmoQuizz_white.png"),p,p,p,400,p,p,500),p,p),p),new A.a8(B.BF,A.U("CosmoQuizz is an app that will help kids manage their workload by allowing game breaks",p,p,p,A.Z(p,p,B.j,p,p,p,p,p,p,p,p,25,p,p,p,p,!0,p,p,p,p,p,A.a([new A.l2(B.t,new A.o(6,6),2)],t.kO),p,p),p,p),p)],n),B.k,B.y,B.v)))],n),B.bY,p,p)}}
 A.afM.prototype={
 $1(a){var s=null
 return A.asv(A.U(a,s,s,s,A.Z(s,s,B.j,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),a,t.N)},
@@ -40129,7 +40129,7 @@ A.pg.prototype={
 ab(){var s=null
 return new A.Sr(new A.bh(s,t.am),new A.cg(B.N,$.b3()),A.ce(!0,s,!0,!0,s,s,!1),B.m)}}
 A.Sr.prototype={
-I(a,b){var s,r,q,p=this,o=null,n=A.ek(o,!0,o,o,A.U("Password Recovery",o,o,o,A.Z(o,o,o,o,o,o,o,o,o,o,o,25,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)),m=A.bm(A.as(o,A.jg("logo/CosmoQuizz_transparent.png"),o,o,o,400,o,o,500),o,o),l=A.at(B.bO,o)
+I(a,b){var s,r,q,p=this,o=null,n=A.ek(o,!0,o,o,A.U("Password Recovery",o,o,o,A.Z(o,o,o,o,o,o,o,o,o,o,o,25,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)),m=A.bm(A.as(o,A.jg("assets/logo/CosmoQuizz_transparent.png"),o,o,o,400,o,o,500),o,o),l=A.at(B.bO,o)
 l=A.as(o,A.cs(p.e,A.cI(o,new A.aG(4,A.ah(30),B.K),o,new A.ab(20,15,20,15),o,o,o,o,!0,o,new A.aG(4,A.ah(30),new A.bb(B.A,1,B.B)),o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,"Enter Your Email",o,o,l,o,!1,o,o,o,"Email",o,o,o,o,o,o,o,o,o,o,o,o,o),p.f,o,o,1,!1,new A.ahO()),o,o,o,o,o,o,600)
 s=A.O(o,40,o)
 if(p.r)r=A.fR()
@@ -40210,7 +40210,7 @@ aB(){this.r=this.a.c
 this.aS()},
 I(a,b){var s=this,r=null,q="_currentUser",p=t.p,o=A.as(r,A.aS(A.a([A.at(B.no,r),A.O(r,r,15),A.U("Student Home",r,r,r,A.Z(r,r,r,r,r,r,r,r,r,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],p),B.k,B.p,B.q),r,r,r,r,r,r,r),n=A.bm(A.dA(A.aS(A.a([A.at(B.dh,r),A.O(r,r,5),A.U("My Profile",r,r,r,A.Z(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],p),B.k,B.p,B.q),new A.ai1(b),A.dt(r,r,A.a6(255,33,89,243),r,r,r,r,r,r,r,B.a1,B.j,r,new A.aT(A.ah(30),B.o),r,r,r,r,r)),r,r),m=A.O(r,r,40),l=A.bm(A.dA(A.aS(A.a([A.at(B.ce,r),A.O(r,r,5),A.U("Take Quiz",r,r,r,A.Z(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],p),B.k,B.p,B.q),new A.ai2(b),A.dt(r,r,A.a6(255,33,89,243),r,r,r,r,r,r,r,B.a1,B.j,r,new A.aT(A.ah(30),B.o),r,r,r,r,r)),r,r),k=A.O(r,r,40),j=A.bm(A.dA(A.aS(A.a([A.at(B.ep,r),A.O(r,r,5),A.U("View Grades",r,r,r,A.Z(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],p),B.k,B.p,B.q),new A.ai3(b),A.dt(r,r,A.a6(255,33,89,243),r,r,r,r,r,r,r,B.a1,B.j,r,new A.aT(A.ah(30),B.o),r,r,r,r,r)),r,r),i=A.O(r,r,80),h=s.e?A.fR():A.bm(A.dA(A.aS(A.a([A.at(B.nm,r),A.O(r,r,5),A.U("Sign Out",r,r,r,A.Z(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],p),B.k,B.p,B.q),new A.ai4(s,b),A.dt(r,r,B.A,r,r,r,r,r,r,r,B.a1,B.j,r,new A.aT(A.ah(30),B.o),r,r,r,r,r)),r,r)
 o=A.ek(A.a([n,m,l,k,j,i,h,A.O(r,r,60)],p),!1,r,r,o)
-h=A.bm(A.as(r,A.jg("logo/CosmoQuizz_transparent.png"),r,r,r,400,r,r,500),r,r)
+h=A.bm(A.as(r,A.jg("assets/logo/CosmoQuizz_transparent.png"),r,r,r,400,r,r,500),r,r)
 i=A.Z(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r)
 j=J.ad(A.b(s.r,q).a.c,"displayName")
 i=A.a6F(r,r,B.aX,!0,r,A.ed(A.a([A.ed(r,A.Z(r,r,A.a6(255,33,89,243),r,r,r,r,r,r,r,r,20,r,B.bM,r,r,!0,r,r,r,r,r,r,r,r),A.d(j)+".")],t.Ne),i,"Welcome, "),B.bn,r,r,1,B.aq)
@@ -40367,7 +40367,7 @@ $1(a){return new A.fX(null)},
 $S:36}
 A.ail.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k,j,i=null
-if(b.a===B.ec){s=A.bm(A.as(i,A.jg("logo/CosmoQuizz_transparent.png"),i,i,i,400,i,i,500),i,i)
+if(b.a===B.ec){s=A.bm(A.as(i,A.jg("assets/logo/CosmoQuizz_transparent.png"),i,i,i,400,i,i,500),i,i)
 r=this.a
 q=A.at(B.bO,i)
 q=A.as(i,A.cs(r.e,A.cI(i,new A.aG(4,A.ah(30),B.K),i,new A.ab(20,15,20,15),i,i,i,i,!0,i,new A.aG(4,A.ah(30),new A.bb(B.A,1,B.B)),i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,"Enter Your Email",i,i,q,i,!1,i,i,i,"Email",i,i,i,i,i,i,i,i,i,i,i,i,i),r.r,i,i,1,!1,new A.aie()),i,i,i,i,i,i,600)
@@ -40443,7 +40443,7 @@ $0(){A.aX(this.a,!1).cd(0)},
 $S:0}
 A.agt.prototype={
 $2(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=null,a0=a2.b
-if(a0!=null){s=A.bm(A.as(a,A.jg("logo/CosmoQuizz_transparent.png"),a,a,a,400,a,a,500),a,a)
+if(a0!=null){s=A.bm(A.as(a,A.jg("assets/logo/CosmoQuizz_transparent.png"),a,a,a,400,a,a,500),a,a)
 r=A.at(B.eo,a)
 q=A.O(a,a,5)
 a0=a0.a
@@ -40652,7 +40652,7 @@ return new A.Su(new A.bh(s,t.am),new A.cg(B.N,r),new A.cg(B.N,r),new A.cg(B.N,r)
 A.Su.prototype={
 I(a5,a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=this,a2=null,a3=A.U("Sign Up",a2,a2,a2,A.Z(a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,25,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2,a2),a2,a2),a4=t.p
 a3=A.ek(A.a([A.bm(A.dA(A.aS(A.a([A.at(B.aL,a2),A.O(a2,a2,5),A.U("Back to Main Page",a2,a2,a2,A.Z(a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,20,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2,a2),a2,a2)],a4),B.k,B.p,B.q),new A.ait(a6),A.dt(a2,a2,A.a6(255,33,54,243),a2,a2,a2,a2,a2,a2,a2,B.a1,B.j,a2,new A.aT(A.ah(30),B.o),a2,a2,a2,a2,a2)),a2,a2),A.O(a2,a2,60)],a4),!1,a2,a2,a3)
-s=A.bm(A.as(a2,A.jg("logo/CosmoQuizz_transparent.png"),a2,a2,a2,400,a2,a2,500),a2,a2)
+s=A.bm(A.as(a2,A.jg("assets/logo/CosmoQuizz_transparent.png"),a2,a2,a2,400,a2,a2,500),a2,a2)
 r=A.at(B.eo,a2)
 r=A.as(a2,A.cs(a1.e,A.cI(a2,new A.aG(4,A.ah(30),B.K),a2,new A.ab(20,15,20,15),a2,a2,a2,a2,!0,a2,new A.aG(4,A.ah(30),new A.bb(B.A,1,B.B)),a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,"Please Enter Your Username",a2,a2,r,a2,!1,a2,a2,a2,"Username",a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2),a1.at,a2,a2,1,!1,new A.aiu()),a2,a2,a2,a2,a2,a2,600)
 q=A.O(a2,15,a2)
@@ -40779,7 +40779,7 @@ A.pm.prototype={
 ab(){var s=null
 return new A.SF(new A.bh(s,t.am),new A.cg(B.N,$.b3()),A.ce(!0,s,!0,!0,s,s,!1),A.a6(255,60,138,62),B.m)}}
 A.SF.prototype={
-I(a,b){var s,r,q=this,p=null,o=q.w,n=A.ek(p,!0,o,p,A.U("Password Recovery",p,p,p,A.Z(p,p,p,p,p,p,p,p,p,p,p,25,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)),m=A.bm(A.as(p,A.jg("logo/CosmoQuizz_transparent.png"),p,p,p,400,p,p,500),p,p),l=A.at(B.bO,p)
+I(a,b){var s,r,q=this,p=null,o=q.w,n=A.ek(p,!0,o,p,A.U("Password Recovery",p,p,p,A.Z(p,p,p,p,p,p,p,p,p,p,p,25,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)),m=A.bm(A.as(p,A.jg("assets/logo/CosmoQuizz_transparent.png"),p,p,p,400,p,p,500),p,p),l=A.at(B.bO,p)
 l=A.as(p,A.cs(q.e,A.cI(p,new A.aG(4,A.ah(30),B.K),p,new A.ab(20,15,20,15),p,p,p,p,!0,p,new A.aG(4,A.ah(30),new A.bb(B.A,1,B.B)),p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"Enter Your Email",p,p,l,p,!1,p,p,p,"Email",p,p,p,p,p,p,p,p,p,p,p,p,p),q.f,p,p,1,!1,new A.aiZ()),p,p,p,p,p,p,600)
 s=A.O(p,40,p)
 if(q.r)o=A.fR()
@@ -40833,7 +40833,7 @@ aB(){this.r=this.a.c
 this.aS()},
 I(a,b){var s=this,r=null,q="_currentUser",p=t.p,o=A.as(r,A.aS(A.a([A.at(B.no,r),A.O(r,r,15),A.U("Teacher Home",r,r,r,A.Z(r,r,r,r,r,r,r,r,r,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],p),B.k,B.p,B.q),r,r,r,r,r,r,r),n=A.bm(A.dA(A.aS(A.a([A.at(B.dh,r),A.O(r,r,5),A.U("My Profile",r,r,r,A.Z(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],p),B.k,B.p,B.q),new A.ajb(b),A.dt(r,r,s.f,r,r,r,r,r,r,r,B.a1,B.j,r,new A.aT(A.ah(30),B.o),r,r,r,r,r)),r,r),m=A.O(r,r,40),l=A.bm(A.dA(A.aS(A.a([A.at(B.ce,r),A.O(r,r,5),A.U("Create Quiz",r,r,r,A.Z(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],p),B.k,B.p,B.q),new A.ajc(b),A.dt(r,r,s.f,r,r,r,r,r,r,r,B.a1,B.j,r,new A.aT(A.ah(30),B.o),r,r,r,r,r)),r,r),k=A.O(r,r,40),j=A.bm(A.dA(A.aS(A.a([A.at(B.ep,r),A.O(r,r,5),A.U("Grade Submissions",r,r,r,A.Z(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],p),B.k,B.p,B.q),new A.ajd(b),A.dt(r,r,s.f,r,r,r,r,r,r,r,B.a1,B.j,r,new A.aT(A.ah(30),B.o),r,r,r,r,r)),r,r),i=A.O(r,r,80),h=s.e?A.fR():A.bm(A.dA(A.aS(A.a([A.at(B.nm,r),A.O(r,r,5),A.U("Sign Out",r,r,r,A.Z(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],p),B.k,B.p,B.q),new A.aje(s,b),A.dt(r,r,B.A,r,r,r,r,r,r,r,B.a1,B.j,r,new A.aT(A.ah(30),B.o),r,r,r,r,r)),r,r)
 o=A.ek(A.a([n,m,l,k,j,i,h,A.O(r,r,60)],p),!1,B.an,r,o)
-h=A.bm(A.as(r,A.jg("logo/CosmoQuizz_transparent.png"),r,r,r,400,r,r,500),r,r)
+h=A.bm(A.as(r,A.jg("assets/logo/CosmoQuizz_transparent.png"),r,r,r,400,r,r,500),r,r)
 i=A.Z(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r)
 j=J.ad(A.b(s.r,q).a.c,"displayName")
 i=A.a6F(r,r,B.aX,!0,r,A.ed(A.a([A.ed(r,A.Z(r,r,s.f,r,r,r,r,r,r,r,r,20,r,B.bM,r,r,!0,r,r,r,r,r,r,r,r),A.d(j)+".")],t.Ne),i,"Welcome, "),B.bn,r,r,1,B.aq)
@@ -40987,7 +40987,7 @@ $1(a){return new A.fX(null)},
 $S:36}
 A.ajv.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k,j,i=null
-if(b.a===B.ec){s=A.bm(A.as(i,A.jg("logo/CosmoQuizz_transparent.png"),i,i,i,400,i,i,500),i,i)
+if(b.a===B.ec){s=A.bm(A.as(i,A.jg("assets/logo/CosmoQuizz_transparent.png"),i,i,i,400,i,i,500),i,i)
 r=this.a
 q=A.at(B.bO,i)
 q=A.as(i,A.cs(r.e,A.cI(i,new A.aG(4,A.ah(30),B.K),i,new A.ab(20,15,20,15),i,i,i,i,!0,i,new A.aG(4,A.ah(30),new A.bb(B.A,1,B.B)),i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,"Enter Your Email",i,i,q,i,!1,i,i,i,"Email",i,i,i,i,i,i,i,i,i,i,i,i,i),r.r,i,i,1,!1,new A.ajo()),i,i,i,i,i,i,600)
@@ -41064,7 +41064,7 @@ $0(){A.aX(this.a,!1).cd(0)},
 $S:0}
 A.adu.prototype={
 $2(a3,a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=null,a2=a4.b
-if(a2!=null){s=A.bm(A.as(a1,A.jg("logo/CosmoQuizz_transparent.png"),a1,a1,a1,400,a1,a1,500),a1,a1)
+if(a2!=null){s=A.bm(A.as(a1,A.jg("assets/logo/CosmoQuizz_transparent.png"),a1,a1,a1,400,a1,a1,500),a1,a1)
 r=A.at(B.eo,a1)
 q=A.O(a1,a1,5)
 a2=a2.a
@@ -41128,7 +41128,7 @@ return new A.SI(new A.bh(s,t.am),new A.cg(B.N,r),new A.cg(B.N,r),new A.cg(B.N,r)
 A.SI.prototype={
 I(a7,a8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2=this,a3=null,a4=A.U("Sign Up",a3,a3,a3,A.Z(a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,25,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3,a3),a5=t.p,a6=a2.fy
 a4=A.ek(A.a([A.bm(A.dA(A.aS(A.a([A.at(B.aL,a3),A.O(a3,a3,5),A.U("Back to Main Page",a3,a3,a3,A.Z(a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,20,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3,a3)],a5),B.k,B.p,B.q),new A.ajD(a8),A.dt(a3,a3,a6,a3,a3,a3,a3,a3,a3,a3,B.a1,B.j,a3,new A.aT(A.ah(30),B.o),a3,a3,a3,a3,a3)),a3,a3),A.O(a3,a3,60)],a5),!1,B.an,a3,a4)
-s=A.bm(A.as(a3,A.jg("logo/CosmoQuizz_transparent.png"),a3,a3,a3,400,a3,a3,500),a3,a3)
+s=A.bm(A.as(a3,A.jg("assets/logo/CosmoQuizz_transparent.png"),a3,a3,a3,400,a3,a3,500),a3,a3)
 r=A.at(B.eo,a3)
 r=A.as(a3,A.cs(a2.e,A.cI(a3,new A.aG(4,A.ah(30),B.K),a3,new A.ab(20,15,20,15),a3,a3,a3,a3,!0,a3,new A.aG(4,A.ah(30),new A.bb(B.A,1,B.B)),a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,"Please Enter Your Username",a3,a3,r,a3,!1,a3,a3,a3,"Username",a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3),a2.ax,a3,a3,1,!1,new A.ajE()),a3,a3,a3,a3,a3,a3,600)
 q=A.O(a3,15,a3)
